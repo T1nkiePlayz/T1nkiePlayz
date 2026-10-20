@@ -106,9 +106,6 @@ Right now I'm interested in:
   <a href="https://github.com/T1nkiePlayz">
     <img height="180" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=T1nkiePlayz&rank_icon=github&custom_title=T1nkiePlayz%20Statistics&show_icons=true&include_all_commits=true&theme=dark_github" />
   </a>
-  <a href="https://wakatime.com/@deb9d1b1-7db8-4126-8cda-ff4feda24672">
-    <img height="180" alt="WakaTime stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=deb9d1b1-7db8-4126-8cda-ff4feda24672&custom_title=T1nkiePlayz%20Wakatime%20Statistics&langs_count=6&theme=dark_github" />
-  </a>
 </p>
 
 <p align="center">
