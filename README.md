@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89b4fa,50:cba6f7,100:a6e3a1&text=Ashton%20Tink&fontColor=1e1e2e&fontSize=58&fontAlignY=38&desc=Student%20%E2%80%A2%20Game%20Developer%20%E2%80%A2%20Rust%20%26%20Web%20Builder&descSize=18&descAlignY=60" alt="Ashton Tink banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89b4fa,50:cba6f7,100:a6e3a1&text=Ashton%20Tink&fontColor=1e1e2e&fontSize=58&fontAlignY=38&desc=Student%20%E2%80%A2%20Game%20Developer%20%E2%80%A2%20Rust%20and%20Web%20Builder&descSize=18&descAlignY=60" alt="Ashton Tink banner" width="100%">
 
 <a href="https://github.com/T1nkiePlayz">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=CBA6F7&center=true&vCenter=true&width=640&lines=Building+Moss%2C+a+Minecraft+server+controller+in+Rust;Making+Mochi%2C+a+local-first+game+launcher;Writing+handbooks+to+teach+Rust+%26+Java;Breaks+things+%E2%86%92+fixes+them+%E2%86%92+blames+Linux" alt="Typing animation">
