@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=T1nkiePlayz&label=Profile%20views&color=cba6f7&style=flat-square" alt="Profile views">
   <img src="https://img.shields.io/badge/📍_Western_Australia-313244?style=flat-square" alt="Location">
   <img src="https://img.shields.io/badge/🐧_Linux_daily_driver-313244?style=flat-square" alt="Linux">
-  <img src="https://img.shields.io/badge/🎮_@SideQuestGames-313244?style=flat-square" alt="SideQuestGames">
+  <img src="https://img.shields.io/badge/🎮_@Sid3QuestGames-313244?style=flat-square" alt="SideQuestGames">
 </p>
 
 </div>
