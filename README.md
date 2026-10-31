@@ -16,7 +16,7 @@
 <p>
   <img src="https://img.shields.io/badge/📍_Western_Australia-313244?style=flat-square" alt="Location">
   <img src="https://img.shields.io/badge/🐧_Linux_daily_driver-313244?style=flat-square" alt="Linux">
-  <img src="https://img.shields.io/badge/🎮_@Sid3QuestGames-313244?style=flat-square" alt="SideQuestGames">
+  <img src="https://img.shields.io/badge/🎮_Side_Quest_Games-313244?style=flat-square" alt="SideQuestGames">
 </p>
 
 </div>
@@ -27,12 +27,11 @@
 
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="78%" valign="top">
       <p>I'm a student from <strong>Western Australia</strong> who turns ideas into working software. I like building things from scratch and understanding every layer of them: game servers, launchers, tools, websites and games.</p>
       <p>Lately that means a lot of <strong>Rust</strong> and a lot of <strong>local-first</strong> tools: your data stays on your machine, and the app keeps working when the internet doesn't.</p>
-      <blockquote><em>Breaks things → fixes them → blames Linux.</em></blockquote>
     </td>
-    <td width="42%" valign="top">
+    <td width="22%" valign="top">
       <table>
         <tr><td>🦀</td><td><strong>Rust</strong><br><sub>servers, launchers, games</sub></td></tr>
         <tr><td>🎮</td><td><strong>Game dev</strong><br><sub>systems, tooling, pixel art</sub></td></tr>
@@ -141,9 +140,9 @@
 
 <img src="https://skillicons.dev/icons?i=react,svelte,astro,tauri,nodejs,sqlite,postgres,supabase&perline=8" alt="Frameworks">
 
-**Game dev & art**
+**Game dev**
 
-<img src="https://skillicons.dev/icons?i=godot,unity,aseprite&perline=3" alt="Game dev tools">
+<img src="https://skillicons.dev/icons?i=godot,unity&perline=2" alt="Game dev tools">
 
 **Tools & platforms**
 
@@ -151,7 +150,7 @@
 
 </div>
 
-> 🎯 **Currently levelling up:** Rust (async, systems, Tauri), C# and C++, software architecture, pixel art, and shipping larger projects end to end.
+> 🎯 **Currently levelling up:** Rust (async, systems, Tauri), C# and C++, software architecture, pixel art (Aseprite), and shipping larger projects end to end.
 
 ---
 
